@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "clean_us": {
+    "size": 16777216,
+    "sha256": "3292d99dd93c3054906887a84a00efdd747ee620cbea4601df2f7f82d5f74c74"
+  },
+  "current_patch": {
+    "path": "patches/quest65-test6-from-clean-us.ips",
+    "sha256": "c281b74a4fff5be8245991d12801b36509c66747a22e285548d51c7b6c75e643"
+  },
+  "expected_test6": {
+    "size": 16777216,
+    "sha256": "a2db80ae41fe9c5dad3f339629ca49071ee2619f8c70ce9017deec8c8cae2285",
+    "internal_name": "QUEST 65 TEST6"
+  }
+}

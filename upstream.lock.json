@@ -1,0 +1,9 @@
+{
+  "name": "Merrow",
+  "repository": "https://github.com/hangedmandesign/merrow.git",
+  "commit": "02d32d38693fad38e4fc3c2ed7d5ff0a362bc732",
+  "license": "MIT",
+  "author": "Jonah Davidson (Hangedman)",
+  "supported_rom_sha1": "91b96e938c6d91699057fad91d726ee5a23ce33a",
+  "rom_hash_source": "https://github.com/Mallos31/Quest/blob/master/quest64.us.sha1"
+}
